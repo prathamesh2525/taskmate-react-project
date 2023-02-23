@@ -15,7 +15,7 @@ const Header = () => {
     <header>
       <div className="logo">
         <img src={Logo} alt="Taskmate Logo" />
-        <span>Taskmate</span>
+        <span>Taskhub</span>
       </div>
       <div className="themeSelector">
         <span
