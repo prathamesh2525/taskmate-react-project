@@ -3,6 +3,8 @@
   max-width: 1200px;
   margin: auto;
   padding: 10px;
+  /* display: flex;
+  flex-direction: column; */
 }
 
 header {
@@ -192,5 +194,12 @@ header .themeSelector .activeTheme {
 @media only screen and (max-width: 800px) {
   .showTask li {
     width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .addTask {
+    display: flex;
+    flex-direction: column;
   }
 }

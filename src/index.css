@@ -26,11 +26,6 @@
   transition: all 500ms;
 }
 
-.medium {
-  background-color: #efefef;
-  transition: all 500ms;
-}
-
 .dark {
   background-color: #15202b;
   transition: all 500ms;
@@ -45,14 +40,14 @@
   transition: all 500ms;
 }
 .gTwo {
-  background: linear-gradient(180deg, #373366 20%, #A084DC 90%);
+  background: linear-gradient(180deg, #373366 20%, #a084dc 90%);
 
   background-blend-mode: soft-light, screen, darken, normal;
   transition: all 500ms;
 }
 
 .gThree {
-  background: linear-gradient(180deg, #D6F8B8 20%, #8FBBAF 90%);
+  background: linear-gradient(180deg, #d6f8b8 20%, #8fbbaf 90%);
 
   background-blend-mode: soft-light, screen, darken, normal;
   transition: all 500ms;

@@ -22,10 +22,7 @@ const Header = () => {
           onClick={() => setTheme("light")}
           className={theme === "light" ? "light activeTheme" : "light"}
         ></span>
-        <span
-          onClick={() => setTheme("medium")}
-          className={theme === "medium" ? "medium activeTheme" : "medium"}
-        ></span>
+
         <span
           onClick={() => setTheme("dark")}
           className={theme === "dark" ? "dark activeTheme" : "dark"}
