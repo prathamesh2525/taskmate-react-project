@@ -30,7 +30,7 @@ const AddTask = ({ taskList, setTaskList, task, setTask }) => {
   }
   return (
     <section className="addTask">
-      <form onSubmit={handleSubmit}>
+      <form className="container" onSubmit={handleSubmit}>
         <input
           type="text"
           name="task"
