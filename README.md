@@ -1,4 +1,4 @@
-# Taskmate with Create React App
+# Taskhub with React App
 
 ## Try at: https://taskhub-sable.vercel.app/
 
